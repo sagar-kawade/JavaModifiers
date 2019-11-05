@@ -11,6 +11,7 @@ static protected void m1()
 		m1();
 		B b=new B();
 		b.m2();
+		System.out.println("my git");
  
  
 }
